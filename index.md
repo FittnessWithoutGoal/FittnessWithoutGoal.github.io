@@ -8,7 +8,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+i want to use HTML and JS
 
 ```markdown
 Syntax highlighted code block
