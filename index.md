@@ -8,7 +8,7 @@
 
 ### Markdown
 
-i want to use HTML and JS
+<h1>i want to use HTML and JS</h1>
 
 ```markdown
 Syntax highlighted code block
