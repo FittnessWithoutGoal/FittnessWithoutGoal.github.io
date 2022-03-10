@@ -6,7 +6,8 @@
 ### 4. Now find 3-5 different exercises you want to do. Go to the Gym and enjoy
 
 
-### Markdown
+<h1 style="color:blue;"title="Fittness without goal">Fittness without goal</h1>
+<p><h2 title="Chose bodypart">Select What Bodypart You Want To Exercise.</h2></p>
 
 <h1>i want to use HTML and JS</h1>
 
